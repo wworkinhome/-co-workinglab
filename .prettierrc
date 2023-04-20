@@ -1,0 +1,7 @@
+//estos valores van a depender de lo que sea mejor para el equipo de trabajo.
+{
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true
+  }
